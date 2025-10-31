@@ -1,0 +1,9 @@
+html
+<!DOCTYPE html>
+<html>
+ <title>ashvina s website,/title>
+</head>
+<body styal ="text-align:center; background-color:pink;">
+<h1>welcome to my website </h1>
+<p> this website is made by ashvina</p>
+</html>
